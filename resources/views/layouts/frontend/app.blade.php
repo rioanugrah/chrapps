@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/x-icon" href="https://is3.cloudhost.id/eagleinformatika/Logo%20Eagle%20Media%20Informatika.webp">
     <link href="{{ asset('frontend') }}/assets/bootstrap/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('frontend') }}/assets/js/bootstrap.min.js">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -61,7 +62,7 @@
                                 <div class="content">
                                     <p class="text-size-18 text-white">Email Kami:</p>
                                     <a class="text-decoration-none last_list_atag"
-                                        href="mailto:marketing@eagleinformatika.com">marketing@eagleinformatika.com</a>
+                                        href="mailto:marketing@eagleinformatika.biz.id">marketing@eagleinformatika.biz.id</a>
                                 </div>
                             </div>
                         </div>
@@ -180,8 +181,8 @@
                                     </figure>
                                     <div class="content">
                                         <span class="text-white">Email us:</span>
-                                        <a href="mailto:info@eagleinformatika.com"
-                                            class="text-size-18 mb-0 text-decoration-none">info@eagleinformatika.com</a>
+                                        <a href="mailto:info@eagleinformatika.biz.id"
+                                            class="text-size-18 mb-0 text-decoration-none">info@eagleinformatika.biz.id</a>
                                     </div>
                                 </div>
                             </div>
