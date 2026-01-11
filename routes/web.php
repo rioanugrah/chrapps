@@ -26,7 +26,7 @@ Route::domain(parse_url(env('APP_URL'), PHP_URL_HOST))->group(function () {
 
 Route::group(['middleware' => 'auth'], function () {
     // Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-    Route::domain('my.'.parse_url(env('APP_URL'), PHP_URL_HOST))->group(function () {
+    Route::domain('chr.'.parse_url(env('APP_URL'), PHP_URL_HOST))->group(function () {
         Route::get('/', function () {
             return redirect(route('login'));
         });
